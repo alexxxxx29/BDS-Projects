@@ -1,6 +1,6 @@
 # Kaggle Competitions
 
-## Competition 1: Personality Profiling of YouTube bloggers
+## Competition 1: Personality Profiling of YouTube Bloggers
 - Built a classifier that predicts five personality trait scores of YouTube bloggers. The dataset includes speech transcripts of YouTubers' blogs, gender information, as well as audiovisual features
 - *Feature engineering*: sentiment scores based on Afinn and NRC lexicons, a proportion of long words, an average sentence length, a proportion of long sentences, and a stop word count. Already available audiovisual features and gender were added to computed features
 - *Fitted models*: stepwise regressions with second-order polynomial terms and interactions
