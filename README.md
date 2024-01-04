@@ -1,4 +1,5 @@
 # Kaggle Competitions
+I participated in four Kaggle competitions in a group of three students, competing with another 15 groups.
 
 ## Competition 1: Personality Profiling of YouTube Bloggers
 - Built a classifier that predicts five personality trait scores of YouTube bloggers. The dataset includes speech transcripts of YouTubers' blogs, gender information, as well as audiovisual features
