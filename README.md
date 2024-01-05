@@ -20,3 +20,6 @@ I participated in four Kaggle competitions in a group of three students, competi
 - Built an algorithm that classifies images of faces into the emotion being expressed
 - *Feature engineering*: raw pixels (we compared full image size vs 2x2 pooled image size), spectral features from raw pixels, and histogram features from the horizontal, vertical, and diagonal edges. Removed near zero variance features, highly correlated features, and features that form linear combinations
 - *Fitted models*: classification tree, random forest, k-nearest neighbours, boosted tree, multinomial regression with lasso and ridge regularization, support vector machine (best performance), as well as linear discriminant analysis with PCA preprocessing
+
+# Deep Learning Project: Sarcasm Detection in News Headlines
+BERT, a transformer model, excels in text analysis using bidirectional context, parallelization, attention mechanisms, and pre-trained representations. Yet, evidence suggests bidirectional LSTM may outperform BERT on smaller datasets. For that reason, we split the data into short versus long news headlines, and conducted a comparative analysis of LSTM and BERT for sarcasm detection using four models: BERT trained on short headlines, BERT trained on long headlines, LSTM trained on short headlines, and LSTM trained on long headlines.
