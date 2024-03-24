@@ -23,3 +23,21 @@ I participated in four Kaggle competitions in a group of three students, competi
 
 # Deep Learning Project: Sarcasm Detection in News Headlines
 BERT, a transformer model, excels in text analysis using bidirectional context, parallelization, attention mechanisms, and pre-trained representations. Yet, evidence suggests bidirectional LSTM may outperform BERT on smaller datasets. For that reason, we split the data into short versus long news headlines, and conducted a comparative analysis of LSTM and BERT for sarcasm detection using four models: BERT trained on short headlines, BERT trained on long headlines, LSTM trained on short headlines, and LSTM trained on long headlines.
+
+# Projects for External Organisations
+## Consultancy Project | Company: eelloo 
+- Went through the CRISP-DM cycle for data mining, including a series of consultancy sessions with the client 
+- Addressed client’s inquiries regarding the characteristics of returning users and non-returning users on the Talent Development platform 
+- Learned how to handle sensitive data and implemented security measure
+
+## Software Usage Analytics | Company: Oefenweb.nl 
+- Extracted project-specific data from a rich relational database in SQL server
+- Investigated variations in the use of a Math Garden program between high-performing and low-performing schools by developing a customized performance metric  
+- Gained experience in working with the online RStudio environment 
+- Acquired skills in creating interactive dashboards using Tableau
+
+## Forecasting the Electrical Vehicle Market | Company: Vandebron 
+- Addressed client’s inquiries regarding the future development of the EV market in NL and its impact on the company’s customer base growth  
+- Mastered the creation of dynamic geographical maps in GIF format to illustrate the evolution of key metrics across various provinces in NL 
+- Enhanced proficiency in using GitHub for project collaboration 
+- Maintained consistent communication with stakeholders through weekly meetings   
