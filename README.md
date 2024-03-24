@@ -24,7 +24,7 @@ I participated in four Kaggle competitions in a group of three students, competi
 # Deep Learning Project: Sarcasm Detection in News Headlines
 BERT, a transformer model, excels in text analysis using bidirectional context, parallelization, attention mechanisms, and pre-trained representations. Yet, evidence suggests bidirectional LSTM may outperform BERT on smaller datasets. For that reason, we split the data into short versus long news headlines, and conducted a comparative analysis of LSTM and BERT for sarcasm detection using four models: BERT trained on short headlines, BERT trained on long headlines, LSTM trained on short headlines, and LSTM trained on long headlines.
 
-# Projects for External Organisations
+# External Projects
 ## Consultancy Project | Company: eelloo 
 - Went through the CRISP-DM cycle for data mining, including a series of consultancy sessions with the client 
 - Addressed client’s inquiries regarding the characteristics of returning users and non-returning users on the Talent Development platform 
